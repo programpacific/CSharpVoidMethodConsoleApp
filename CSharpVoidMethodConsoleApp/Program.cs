@@ -40,4 +40,4 @@ namespace CSharpVoidMethodConsoleApp
 }
 
 // So this fills the requirements, but couldn't think of anything much fun to do with it! &&& Who's to say that I didn't totally understand the intent of the exercise!
-// Thanks again for your guy's help, it is starting to click!
+// Thanks again for all of your guys' & gals' help, it is starting to click!
